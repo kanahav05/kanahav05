@@ -5,14 +5,14 @@
 
 ---
 
-## About Me
+## 🌟 The Intersection of Business & Code
 
-👋 Hi, I'm **Kanahav Gupta**, family friendly sarpanch. I build systems that solve real operational bottlenecks, bridging the gap between complex engineering architectures and core business metrics.
+👋 Hi ! I'm **Kanahav Gupta**, a student and an inspiring leader. I build systems that solve real operational bottlenecks, bridging the gap between complex engineering architectures and core business metrics.
 
 💡 **My Focus Areas:**
 - 🏭 **Operations First:** Specialized in Supply Chain Mapping, Capacity Planning, and Root Cause Analysis.
 - 🤖 **AI-Driven:** Building RAG Pipelines, predictive models, and AI copilots that automate manual workflows.
-- 📈 **Leadership:** Being a leader since my college days, have lead different bunch of people at different situations, most notably being President at CodeBase MPSTME, leading tech initiatives impacting over 500+ students. 
+- 📈 **Leadership:** Being in a leader since my early college days in different situations, most notably being President at CodeBase MPSTME, leading tech initiatives impacting over 500+ students.
 
 ---
 
@@ -27,9 +27,19 @@
 
 | Category | Core Skills |
 | :---: | :--- |
-| **Product & Operations** | ![Supply Chain](https://img.shields.io/badge/Supply%20Chain%20Strategy-%2300599C.svg?style=for-the-badge) ![Agile](https://img.shields.io/badge/Agile%20&%20Scrum-E34F26?style=for-the-badge&logo=agile&logoColor=white) ![Kaizen](https://img.shields.io/badge/Kaizen%20&%20Optimization-25A162?style=for-the-badge) ![Risk Mitigation](https://img.shields.io/badge/Risk%20Mitigation-F06A6A?style=for-the-badge) |
+| **Project Management** | ![Agile/Scrum](https://img.shields.io/badge/Agile%20/%20Scrum-E34F26?style=for-the-badge&logo=agile&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white) ![Sprint Planning](https://img.shields.io/badge/Sprint%20Planning-%2300599C.svg?style=for-the-badge) ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![RACI Matrix](https://img.shields.io/badge/RACI%20Matrix-%234ea94b.svg?style=for-the-badge) |
+| **Product & Operations** | ![Supply Chain](https://img.shields.io/badge/Supply%20Chain%20Strategy-%2300599C.svg?style=for-the-badge) ![Capacity Planning](https://img.shields.io/badge/Capacity%20Planning-%23F7931E.svg?style=for-the-badge) ![Kaizen](https://img.shields.io/badge/Kaizen%20&%20Optimization-25A162?style=for-the-badge) ![Risk Mitigation](https://img.shields.io/badge/Risk%20Mitigation-F06A6A?style=for-the-badge) |
 | **AI & Analytics** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scikit-learn](https://img.shields.io/badge/Predictive%20Analytics-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![RAG](https://img.shields.io/badge/RAG%20Pipelines-%23000000.svg?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
 | **Full-Stack & DB** | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+
+---
+
+## 📜 Certifications
+
+- 🏅 **[Google Project Management Professional](https://coursera.org/share/0aa10e177f0715077005bf25dfbfe4fe)**
+- 🏅 **[Supply Chain Management Specialization](https://coursera.org/share/fe52dd516621161b14d2fa5c746a60c7)** - *Rutgers University*
+- 🏅 **[Operations Management: Quality and Supply Chain](https://coursera.org/share/0484fcd517ccd5fd3e835784c8992a04)** - *University of Illinois Urbana-Champaign*
+- 🏅 **[Managing Projects with AI](https://coursera.org/share/f5ecdfcf63ff2cd545a42883241d9d2d)** - *Coursera AI CERTs*
 
 ---
 
