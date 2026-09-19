@@ -7,7 +7,7 @@
 
 ## About Me
 
-👋 Hi, I'm **Kanahav Gupta**, family friendly sarpanch. I don't just write code; I build systems that solve real operational bottlenecks, bridging the gap between complex engineering architectures and core business metrics.
+👋 Hi, I'm **Kanahav Gupta**, family friendly sarpanch. I build systems that solve real operational bottlenecks, bridging the gap between complex engineering architectures and core business metrics.
 
 💡 **My Focus Areas:**
 - 🏭 **Operations First:** Specialized in Supply Chain Mapping, Capacity Planning, and Root Cause Analysis.
