@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 The Intersection of Business & Code
+## About me :) 
 
 👋 Hi ! I'm **Kanahav Gupta**, a student and an inspiring leader. I build systems that solve real operational bottlenecks, bridging the gap between complex engineering architectures and core business metrics.
 
