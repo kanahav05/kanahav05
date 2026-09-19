@@ -2,13 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:0000FF&height=200&section=header&text=KANAHAV%20GUPTA&fontSize=60&animation=fadeIn&fontColor=FFFFFF&desc=Family%20friendly%20sarpanch&descAlignY=65&descAlignX=65&descColor=FFFFFF" alt="Kanahav Gupta Animated Header" />
 </p>
 
-<p align="center">
-  <h3>✨ Orchestrating Code. Optimizing Operations. Delivering Impact. ✨</h3>
-</p>
 
 ---
 
-## 🌟 The Intersection of Business & Code
+## About Me
 
 👋 Hi, I'm **Kanahav Gupta**, family friendly sarpanch. I don't just write code; I build systems that solve real operational bottlenecks, bridging the gap between complex engineering architectures and core business metrics.
 
